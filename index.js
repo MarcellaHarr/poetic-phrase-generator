@@ -1,14 +1,14 @@
 import { generateTextAndImage } from "./utils.js"
 
 // 1. Change the value of the variable to your name
-let name = "Marcella Harris"
+let name = "Guil Hernandez"
 
 // 2. Change the value of the variable to your favorite activity
-let favoriteActivity = "tapestry weaving"
+let favoriteActivity = "Kayaking"
 
 // 3. Assign the favoritePlace variable your favorite place
 // I.e. city, mountain, pub, forrest, beach, Manhattan, etc.
-let favoritePlace = "in my dreams"
+let favoritePlace = "coffee shop"
 
 // 4. Configure the AI by setting a temperature from 0 to 1
 // The higher temperature, the more random & experimental output
