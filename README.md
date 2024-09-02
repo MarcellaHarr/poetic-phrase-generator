@@ -1,11 +1,7 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Poetic Phrase Generator
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
+This is a quick and straightforward way to create a poetic phrase (AI-generated) and a background based on your favorite place and activity. This repo is part of the `Launchpad: Intro to Javascript` by `GitHub` and `Scrimba`.
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
